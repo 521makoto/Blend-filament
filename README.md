@@ -22,7 +22,7 @@
 2. 混合比と色の関係
 - 任意の色同士の混合比ごとの色変化
 - スウォッチ（24×24×2mm）での測定
-- カラーセンサーによる L*a*b* 値の記録
+- カラーセンサーによる Lab* 値の記録
 - 画像解析による均一度評価
 3. 測定方法
 - 撮影条件の統一（照明・距離・角度・露出）
@@ -39,9 +39,9 @@
 - ROI 内の明度のばらつきを数値化
 - 小さいほど均一、大きいほどまだらが強い
 ● 色差（ΔE）
-- L*a*b* の差分を用いた色の変化量
+- Lab* の差分を用いた色の変化量
 - 混合比の変化を追跡するための指標
-● カラーセンサー L*a*b* 値
+● カラーセンサー Lab* 値
 - 色の平均値を比較
 - 色の安定性・再現性を評価
 ● 目視評価（補助）
@@ -51,28 +51,11 @@
 - 細部（煙突まわり）
 
 📁 ディレクトリ構成（Structure）
-GitHub で崩れないように コードブロックでツリーを固定した版：
-blend-filament-research/
-├── README.md
-├── nozzle-tests/
-│   ├── 0.2mm/
-│   ├── 0.4mm/
-│   ├── 0.6mm/
-│   └── 0.8mm/
-├── color-measurements/
-│   ├── imagej-results.csv
-│   ├── roi-settings.md
-│   └── analysis-notes.md
-├── swatch-design/
-│   ├── stl/
-│   └── design-notes.md
-└── photos/
-
-
+blend-filament-research/ ├── README.md ├── nozzle-tests/ │   ├── 0.2mm/ │   ├── 0.4mm/ │   ├── 0.6mm/ │   └── 0.8mm/ ├── color-measurements/ │   ├── imagej-results.csv │   ├── roi-settings.md │   └── analysis-notes.md ├── swatch-design/ │   ├── stl/ │   └── design-notes.md └── photos/
 
 🧪 使用ツール（Tools）
 - Fiji / ImageJ：明度・色差の標準偏差測定
-- カラーセンサー：L*a*b* 値の取得
+- カラーセンサー：Lab* 値の取得
 - Bambu Lab X1C / P1 系列：造形
 - 3DBenchy / スウォッチ：比較用モデル
 - 撮影環境：照明・背景・固定治具
