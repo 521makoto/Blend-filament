@@ -68,13 +68,23 @@
 - 曲面部（船首・船尾）  
 - 細部（煙突まわり）
 
----
 
 ## 📁 ディレクトリ構成（Structure）
-blend-filament-research/ ├── README.md ├── nozzle-tests/ │   ├── 0.2mm/ │   ├── 0.4mm/ │   ├── 0.6mm/ │   └── 0.8mm/ ├── color-measurements/ │   ├── imagej-results.csv │   ├── roi-settings.md │   └── analysis-notes.md ├── swatch-design/ │   ├── stl/ │   └── design-notes.md └── photos/
-
----
-
+blend-filament-research/
+├── README.md
+├── nozzle-tests/
+│   ├── 0.2mm/
+│   ├── 0.4mm/
+│   ├── 0.6mm/
+│   └── 0.8mm/
+├── color-measurements/
+│   ├── imagej-results.csv
+│   ├── roi-settings.md
+│   └── analysis-notes.md
+├── swatch-design/
+│   ├── stl/
+│   └── design-notes.md
+└── photos/
 ## 🧪 使用ツール（Tools）
 
 - **Fiji / ImageJ**：明度・色差の標準偏差測定  
