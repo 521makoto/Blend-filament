@@ -70,8 +70,7 @@
 - 曲面部（船首・船尾）
 - 細部（煙突まわり）
 
----
-
+```
 ## 📁 ディレクトリ構成（Structure）
 
 blend-filament-research/
@@ -89,6 +88,8 @@ blend-filament-research/
 │ ├── stl/
 │ └── design-notes.md
 └── photos/
+```
+
 
 ## 🧪 使用ツール（Tools）
 
