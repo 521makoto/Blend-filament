@@ -68,7 +68,7 @@
 - 曲面部（船首・船尾）  
 - 細部（煙突まわり）
 
-
+---
 ## 📁 ディレクトリ構成（Structure）
 blend-filament-research/
 ├── README.md
@@ -85,6 +85,8 @@ blend-filament-research/
 │   ├── stl/
 │   └── design-notes.md
 └── photos/
+---
+
 ## 🧪 使用ツール（Tools）
 
 - **Fiji / ImageJ**：明度・色差の標準偏差測定  
