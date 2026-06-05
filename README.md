@@ -1,7 +1,6 @@
 ## FlexChroma™
-> Beyond standard filament color.
-
-> Print Colors You Imagine.
+  Beyond standard filament color.
+  Print Colors You Imagine.
 
 [🏠 FlexChroma HUB](https://flexchroma.carrd.co/)
 
