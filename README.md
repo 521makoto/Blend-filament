@@ -127,5 +127,14 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 
 - ひつじぐも（Sheepycloud）
 - 3Dプリント × フィラメントカラー研究
-  https://flexchroma.carrd.co/
+
+  ---
+
+## Explore FlexChroma
+
+- [FlexChroma HUB](https://flexchroma.carrd.co/)
+- [MakerWorld]()
+- [note](https://note.com/may_banana)
+
+Print Colors You Imagine.
 
