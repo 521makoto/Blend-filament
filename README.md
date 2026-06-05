@@ -5,9 +5,10 @@ Print Colors You Imagine.
 > Beyond standard filament color.
 
 [🏠 FlexChroma HUB](https://flexchroma.carrd.co/)
+
 ---
 
-混色フィラメント研究ノート（Multicolor Blend Filament Research）
+###混色フィラメント研究ノート（Multicolor Blend Filament Research）
 
 本プロジェクトは、FDM 3Dプリンタで使用される「フィラメントカラー」の特性を体系的に記録・分析するための研究ノートです。
 
